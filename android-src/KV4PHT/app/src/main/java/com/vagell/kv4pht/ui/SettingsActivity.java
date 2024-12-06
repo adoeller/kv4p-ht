@@ -87,6 +87,8 @@ public class SettingsActivity extends AppCompatActivity {
         AutoCompleteTextView maxFreqTextView = findViewById(R.id.maxFreqTextView);
 
         List<String> maxFreqs = new ArrayList<String>();
+        maxFreqs.add("160MHz");
+        maxFreqs.add("150MHz");
         maxFreqs.add("148MHz");
         maxFreqs.add("146MHz");
 
