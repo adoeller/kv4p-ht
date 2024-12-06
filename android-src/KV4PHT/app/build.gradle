@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.vagell.kv4pht'
+    namespace 'com.vagell.kv4pht_150'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.vagell.kv4pht"
+        applicationId "com.vagell.kv4pht_150"
         minSdk 26
         targetSdk 34
         versionCode 21
