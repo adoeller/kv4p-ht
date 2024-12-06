@@ -169,7 +169,7 @@ public class RadioAudioService extends Service {
     private String callsign = null;
     private int consecutiveSilenceBytes = 0; // To determine when to move scan after silence
     private int activeMemoryId = -1; // -1 means we're in simplex mode
-    private static int maxFreq = 148; // in MHz
+    private static int maxFreq = 150; // in MHz
 
     // Safety constants
     private static int RUNAWAY_TX_TIMEOUT_SEC = 180; // Stop runaway tx after 3 minutes
