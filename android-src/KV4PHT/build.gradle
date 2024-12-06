@@ -7,7 +7,7 @@ plugins {
 
 sonar {
   properties {
-    property "sonar.projectKey", "VanceVagell_kv4p-ht"
+    property "sonar.projectKey", "VanceVagell_kv4p-ht_150"
     property "sonar.organization", "vancevagell"
     property "sonar.host.url", "https://sonarcloud.io"
   }
