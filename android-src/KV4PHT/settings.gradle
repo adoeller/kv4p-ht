@@ -13,6 +13,6 @@ dependencyResolutionManagement {
         maven { url 'https://jitpack.io' }
     }
 }
-rootProject.name = "KV4P HT"
+rootProject.name = "KV4P HT 150"
 include ':app'
 include ':usbSerialForAndroid'
